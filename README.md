@@ -1,9 +1,3 @@
-Here is a comprehensive, production-ready `README.md` file tailored specifically for your project structure, tech stack, and ingestion pipeline.
-
-You can create a file named `README.md` in your `workforce-copilot/backend` directory and paste this content right inside.
-
----
-
 # Enterprise Workforce Copilot & Multi-Source RAG System
 
 An intelligent, context-aware Retrieval-Augmented Generation (RAG) pipeline designed to bridge the gap between structured organizational data and unstructured corporate documents. This application unifies SQLite relational employee records with PDF-based documents (such as candidate resumes) into a localized, ultra-secure vector ecosystem, completely decoupled from external third-party cloud API dependencies.
